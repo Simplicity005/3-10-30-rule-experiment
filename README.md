@@ -18,4 +18,4 @@ The experiment uses a custom propagation model built on top of `networkx`[cite: 
 
 ### Prerequisites
 Ensure you have Python 3.x installed. Install the required dependencies using pip:
-```pip install -r requirements.txt
+```pip install -r requirements.txt```
